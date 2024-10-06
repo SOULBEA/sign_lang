@@ -1,0 +1,1 @@
+len(results.left_hand_landmarks.landmark)
